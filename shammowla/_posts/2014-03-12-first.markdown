@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "What it means to be a coder!"
+date:   2014-03-12 15:41:26
+categories: Blog Posts
+---
+
+To be a coder is the ability to create something from nothing. Every step of the way there is a challege. Figuring out why a error happened to writing new code.
